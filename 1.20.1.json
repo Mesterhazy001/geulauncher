@@ -6,21 +6,6 @@
       "name": "Sodium", 
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar", 
       "filename": "sodium-fabric-0.5.13+mc1.20.1.jar" 
-    },
-    { 
-      "name": "Fabric API", 
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar", 
-      "filename": "fabric-api-0.92.7+1.20.1.jar" 
-    },
-    { 
-      "name": "Iris shaders", 
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar", 
-      "filename": "iris-1.7.6+mc1.20.1.jar" 
-    },
-    { 
-      "name": "Ferritecore", 
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar", 
-      "filename": "ferritecore-6.0.1-fabric.jar" 
     }
   ]
 }
