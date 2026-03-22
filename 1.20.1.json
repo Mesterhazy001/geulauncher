@@ -9,17 +9,17 @@
     },
     { 
       "name": "Fabric API", 
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vS94939p/fabric-api-0.92.7%2B1.20.1.jar", 
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar", 
       "filename": "fabric-api-0.92.7+1.20.1.jar" 
     },
     { 
       "name": "Iris shaders", 
-      "url": "https://cdn.modrinth.com/data/YL67r9ic/versions/fFclZpB7/iris-mc1.20.1-1.7.6.jar", 
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar", 
       "filename": "iris-1.7.6+mc1.20.1.jar" 
     },
     { 
       "name": "Ferritecore", 
-      "url": "https://cdn.modrinth.com/data/u6obHc91/versions/UuOn6mS3/ferritecore-6.0.1-fabric.jar", 
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar", 
       "filename": "ferritecore-6.0.1-fabric.jar" 
     }
   ]
