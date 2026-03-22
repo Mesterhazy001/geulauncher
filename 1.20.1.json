@@ -1,21 +1,56 @@
 {
   "mc_version": "1.20.1",
-  "fabric_loader": "0.15.7",
+  "fabric_loader": "0.16.10",
   "mods": [
-    { 
-      "name": "Sodium", 
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar", 
-      "filename": "sodium-fabric-0.5.13+mc1.20.1.jar" 
+    {
+      "name": "Fabric API",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/99YfS3id/fabric-api-0.92.0%2B1.20.1.jar",
+      "filename": "fabric-api-0.92.0+1.20.1.jar"
     },
-    { 
-      "name": "Mod Menu", 
-      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar", 
+    {
+      "name": "Sodium",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
+      "filename": "sodium-fabric-0.5.13+mc1.20.1.jar"
+    },
+    {
+      "name": "Lithium",
+      "url": "https://cdn.modrinth.com/data/gv9uB0p1/versions/8S6XqL07/lithium-fabric-mc1.20.1-0.11.2.jar",
+      "filename": "lithium-fabric-mc1.20.1-0.11.2.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "url": "https://cdn.modrinth.com/data/uXXpz0jH/versions/988f0YfO/ferritecore-6.0.1-fabric.jar",
+      "filename": "ferritecore-6.0.1-fabric.jar"
+    },
+    {
+      "name": "Starlight",
+      "url": "https://cdn.modrinth.com/data/Ffxkka79/versions/SptZ7u8Z/starlight-1.1.2%2Bfabric.dbc288a.jar",
+      "filename": "starlight-1.1.2+fabric.dbc288a.jar"
+    },
+    {
+      "name": "Entity Culling",
+      "url": "https://cdn.modrinth.com/data/N0m3S4aT/versions/8Yh57R2Y/entityculling-fabric-1.6.2-mc1.20.1.jar",
+      "filename": "entityculling-fabric-1.6.2-mc1.20.1.jar"
+    },
+    {
+      "name": "Mod Menu",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar",
       "filename": "modmenu-7.2.2.jar"
     },
-    { 
-      "name": "Fabric API", 
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar", 
-      "filename": "fabric-api-0.92.7+1.20.1.jar" 
+    {
+      "name": "Iris Shaders",
+      "url": "https://cdn.modrinth.com/data/YL57ai9E/versions/89Mshn99/iris-mc1.20.1-1.7.5.jar",
+      "filename": "iris-mc1.20.1-1.7.5.jar"
+    },
+    {
+      "name": "AppleSkin",
+      "url": "https://cdn.modrinth.com/data/v6vvgqoc/versions/f9i0pZ0S/appleskin-fabric-mc1.20.1-2.5.1.jar",
+      "filename": "appleskin-fabric-mc1.20.1-2.5.1.jar"
+    },
+    {
+      "name": "JourneyMap",
+      "url": "https://cdn.modrinth.com/data/m99ATrtp/versions/l9pXmX8R/journeymap-1.20.1-5.9.7-fabric.jar",
+      "filename": "journeymap-1.20.1-5.9.7-fabric.jar"
     }
   ]
 }
